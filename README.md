@@ -118,10 +118,10 @@ To deploy this project yourself, follow these steps:
 
 2. Deploy to GitHub Pages:
 
-     1. Push your code to a GitHub repository.
-     2. Go to the repository settings.
-     3. Scroll down to the "GitHub Pages" section.
-     4. Select the branch you want to deploy from (usually m
+  - Push your code to a GitHub repository.
+  - Go to the repository settings.
+  - Scroll down to the "GitHub Pages" section.
+  - Select the branch you want to deploy from (usually main or gh-pages) and click "Save".
 
 3. Access your deployed project:
 
